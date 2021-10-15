@@ -1,0 +1,17 @@
+body{
+    background-size: cover;
+    background-position:center;
+}
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 25px;
+    font-style:italic;
+    font-weight: 500px;
+    font-family: cursive;
+    box-shadow: 10px 10px 15px grey;
+}
+canvas{
+    box-shadow: 10px 10px 10px white;
+    border-radius: 15px;
+}
